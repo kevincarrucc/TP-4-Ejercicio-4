@@ -42,7 +42,7 @@ Partial Class Form1
         'BtnEjecutar
         '
         Me.BtnEjecutar.DialogResult = System.Windows.Forms.DialogResult.Cancel
-        Me.BtnEjecutar.Location = New System.Drawing.Point(519, 90)
+        Me.BtnEjecutar.Location = New System.Drawing.Point(713, 315)
         Me.BtnEjecutar.Name = "BtnEjecutar"
         Me.BtnEjecutar.Size = New System.Drawing.Size(75, 23)
         Me.BtnEjecutar.TabIndex = 1
@@ -57,17 +57,17 @@ Partial Class Form1
         Me.GrillaMatriz.Name = "GrillaMatriz"
         Me.GrillaMatriz.RowHeadersVisible = False
         Me.GrillaMatriz.ShowCellErrors = False
-        Me.GrillaMatriz.Size = New System.Drawing.Size(299, 263)
+        Me.GrillaMatriz.Size = New System.Drawing.Size(682, 305)
         Me.GrillaMatriz.TabIndex = 2
         '
         'GrillaVector
         '
         Me.GrillaVector.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
         Me.GrillaVector.ColumnHeadersVisible = False
-        Me.GrillaVector.Location = New System.Drawing.Point(390, 31)
+        Me.GrillaVector.Location = New System.Drawing.Point(713, 31)
         Me.GrillaVector.Name = "GrillaVector"
         Me.GrillaVector.RowHeadersVisible = False
-        Me.GrillaVector.Size = New System.Drawing.Size(68, 278)
+        Me.GrillaVector.Size = New System.Drawing.Size(75, 278)
         Me.GrillaVector.TabIndex = 3
         '
         'Form1
