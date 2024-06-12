@@ -28,7 +28,6 @@
                     vector(f) = minimo
                     dato = 1
                     cuenta = 0
-                    numero = vector(f)
                     GrillaVector.Item(0, f).Value = vector(f)
                 End If
             Next
