@@ -8,7 +8,7 @@
     Private Sub BtnEjecutar_Click(sender As Object, e As EventArgs) Handles BtnEjecutar.Click
         Dim matriz(10, 8)
         Dim vector(10)
-        Dim dato, cuenta, minimo, numero As Integer
+        Dim dato, cuenta, minimo As Integer
         Dim rand As New Random()
         dato = 1
         cuenta = 0
